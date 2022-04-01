@@ -41,8 +41,3 @@ Suite Teardown      Run Keywords
 1. Example Test 1
   [Documentation]  This is an example test
    Should Be True  2==2
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
